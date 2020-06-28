@@ -1,8 +1,8 @@
 # Waste_Segregation
 **This Repo is the official head repo for the Waste Segregation Management Model.**
 
-## Workflow for the contributors
-To ensure a proper workflow and minimal clashes. Kindly, adhere to the given workflow.
+## Guidlines for the contributors
+To ensure a proper workflow and minimal clashes. Kindly, adhere to the given procedure.
 This will ensure a sagacious development of the project.
 
 ### 1. Forking this repo
